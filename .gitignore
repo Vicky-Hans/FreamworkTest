@@ -1,0 +1,40 @@
+
+# Unity caches and local editor state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.utmp/
+
+# Build outputs and captures
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/ExportedObj/
+/UIElementsSchema/
+
+# Unity-generated IDE projects and local IDE settings
+/*.csproj
+/*.unityproj
+/*.sln
+/*.slnx
+/.vs/
+/.idea/
+/.gradle/
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+*.opendb
+*.VC.db
+
+# Logs, temporary files and operating-system metadata
+*.log
+*.tmp
+mono_crash.*
+/sysinfo.txt
+.DS_Store
+Thumbs.db
+Desktop.ini
